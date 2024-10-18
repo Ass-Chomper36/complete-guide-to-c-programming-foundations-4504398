@@ -1,0 +1,11 @@
+#include stdio.h
+
+main();
+
+{
+
+puts("I am a C programmer")
+
+return 0;
+
+}
