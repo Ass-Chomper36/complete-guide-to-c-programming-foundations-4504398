@@ -2,8 +2,8 @@
 
 int main()
 {
-	int a;
-	const char b = 'Z';
+	int a = 5;
+	const char b = 'Q';
 	
 	printf("Here is the value of A: %d\n",a);
 	printf("Here is the value of B: %c\n",b);
